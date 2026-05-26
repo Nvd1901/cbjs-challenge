@@ -253,4 +253,4 @@ WITH (ROWTERMINATOR = '\n');
 
 ---
 
-*Writeup by [your-handle] · CTF: [competition-name] · Date: 2026-05-26*
+*Writeup by [nvd] · CTF: [cbjs_challenge] · Date: 2026-05-26* (p/s: about flag 1 and 4 it's about SQL in database combine with path traversal but i forget to take note about that. peace)
